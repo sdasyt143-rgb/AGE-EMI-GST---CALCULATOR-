@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator",
+  "description": "A modern Android calculator app with Basic, Scientific, GST, Discount, EMI, Profit & Loss, Age & Date, Unit Converter, calculation notes, history, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
